@@ -48,7 +48,7 @@ const Timeline = () => {
       <br />
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I enjoy solving puzzles and have a natural aptitude for recognizing patterns. Being curious and adventurous, I want to make the most of my time here on earth by learning many things, trying many things, and going many places. Check out my timeline below:
+        I enjoy solving puzzles and have a natural aptitude for recognizing patterns. Being curious and adventurous, I want to make the most of my time here on earth by learning many things, trying many things, and going many places. I enjoy cycling, PS1 retro video games, and board games. For more about my career journey, check out my timeline below:
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

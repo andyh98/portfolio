@@ -8,13 +8,14 @@ const Hero = (props) => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Welcome To <br />
-        My Personal Portfolio
+        <p>Hello!</p>
+        Welcome To My Portfolio ~
       </SectionTitle>
       <SectionText>
       I am a Software Engineer who is passionate about helping people live better lives through technology
       </SectionText>
-      <Button href = "#about">Contact Me</Button>
+      
+      <a href="mailto:andyhameed@outlook.com"><Button>Contact Me</Button></a>
     </LeftSection>
   </Section>
 );

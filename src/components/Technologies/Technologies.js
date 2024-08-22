@@ -9,7 +9,7 @@ const Technologies = () =>  (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      Through projects, hackathons, coursework and relevant industry experience, I've gained knowledge and exposure to different technologies
+      Through projects, hackathons, coursework and relevant industry experience, I've gained knowledge and exposure to the following technologies amongst others:
     </SectionText>
     <List>
       <ListItem>
