@@ -18,6 +18,15 @@ export const projects = [
     id: 1,
   },
   {
+    title: 'Snake 2.o',
+    description:"A take on the classic Snake gam. Built using Python's Pygame library, this version included dark and light mode as well as 3 levels of difficulty. Keep the snake alive as you collect square food and the snake lengthens. Highscores also available to view. ",
+    image: '/images/snake.png',
+    tags: ['Pygame', 'Python'],
+    source: 'https://github.com/andyh98/Snake-2.o',
+    visit: 'https://github.com/andyh98/Snake-2.o',
+    id: 3,
+  },
+  {
     title: 'Sandbox Series',
     description:"A series of projects completed using HTML, CSS, and Javascript, and without the use of external libraries or frameworks. This project was dedicated to learning to fundamentals of frontend development. Any images included have been created by myself using Adobe Illustrator (Ex. The pen in Live Pen tool). ",
     image: '/images/colorGlow.png',
