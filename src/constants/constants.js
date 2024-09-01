@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'ScreenIt',
-    description: " A contactless customer screening and infection tracing soution for businesses operating during the COVID-19 pandemic. Using React, MongoDB, Python and Arduino, an online management portal and sensor-activated prorotype were developed and demonstrated as part of Engineering capstone. Worked in a team of 5 to design,  prototype and present ScreenIt",
+    description: " A contactless customer screening and infection tracing solution for businesses operating during the COVID-19 pandemic. Using React, MongoDB, Python and Arduino, an online management portal and sensor-activated prototype were developed and demonstrated as part of Engineering capstone. Worked in a team of 5 to design,  prototype and present ScreenIt",
       image: '/images/screenIt.png',
       tags: ['Python', 'React', 'MongoDb', 'MaterialUI'],
     source: 'https://github.com/ScreenIt-Inc/ScreenIt',
