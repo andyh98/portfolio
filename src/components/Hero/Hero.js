@@ -9,10 +9,10 @@ const Hero = (props) => (
     <LeftSection>
       <SectionTitle main center>
         <p>Hello!</p>
-        Welcome To My Portfolio ~
+        I'm Andy ~
       </SectionTitle>
       <SectionText>
-      I am a Software Engineer who is passionate about helping people live better lives through technology
+      A Software Engineer who is passionate about helping people live better lives through technology
       </SectionText>
       
       <a href="mailto:andyhameed@outlook.com"><Button>Contact Me</Button></a>
