@@ -49,6 +49,6 @@ export const projects = [
 export const TimeLineData = [
   { year: 2024, text: 'Ready to share my ideas and skills with the world', },
   { year: 2023, text: 'Embarked on an international fellowship in Japan supported by the McCall MacBain Foundation', },
-  { year: 2022, text: 'Graduated Software Engineering co-op B.Eng with total of 15 months of internships @ AMD and AWS', },
+  { year: 2022, text: 'Graduated Software Engineering co-op B.Eng with a total of 15 months of internships @ AMD and AWS', },
   { year: 2016, text: 'Enrolled in the Bachelors of Engineering program @ McMaster University', }
 ];

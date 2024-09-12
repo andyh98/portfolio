@@ -7,7 +7,7 @@ const data = [
   { number: "3.9", text: 'cGPA'},
   { number: "5+", text: 'Years as Engineering tutor with 30+ 5-star student reviews', },
   { number: "15+", text: 'Months of internship experience with industry leaders AMD & AWS', },
-  // { number: "12+", text: 'Culturally immersive months abroad in Japan', },
+  { number: "6", text: 'Honors & Awards for academic excellence, leadership and community work', },
 ];
 
 const Acomplishments = () => (
