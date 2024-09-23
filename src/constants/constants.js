@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'Snake 2.o',
-    description:"A take on the classic Snake gam. Built using Python's Pygame library, this version included dark and light mode as well as 3 levels of difficulty. Keep the snake alive as you collect square food and the snake lengthens. Highscores also available to view. ",
+    description:"A take on the classic Snake game. Built using Python's Pygame library, this version included dark and light mode as well as 3 levels of difficulty. Keep the snake alive as you collect square food and the snake lengthens. Highscores also available to view. ",
     image: '/images/snake.png',
     tags: ['PyGame', 'Python'],
     source: 'https://github.com/andyh98/Snake-2.o',
