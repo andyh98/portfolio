@@ -14,7 +14,7 @@ export const projects = [
       image: '/images/reflect.png',
       tags: ['Flask', 'Python', 'Bootstrap'],
     source: 'https://github.com/andyh98/ReFlect',
-    visit: 'https://reflect-d6907657a0b0.herokuapp.com/',
+    visit: 'https://github.com/andyh98/ReFlect',
     id: 1,
   },
   {
