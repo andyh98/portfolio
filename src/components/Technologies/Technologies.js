@@ -19,6 +19,9 @@ const Technologies = () =>  (
           <ListParagraph>
             Java<br />
             Python<br />
+            Node JS<br />
+            .NET Core<br />
+            C#<br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -29,7 +32,9 @@ const Technologies = () =>  (
           <ListParagraph>
             Flask <br />
             React <br />
-            HTML/CSS/Javascript <br />
+            HTML/CSS <br />
+            Javascript/Typescript <br />
+            Angular <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
