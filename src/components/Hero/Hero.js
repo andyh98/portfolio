@@ -12,7 +12,7 @@ const Hero = (props) => (
         I'm Andy
       </SectionTitle>
       <SectionText>
-      A Software Engineer who is passionate about helping people live better lives through technology
+      A Software Engineer who is passionate about education and technology
       </SectionText>
       
       <a href="https://drive.google.com/file/d/1WBQGVJFu3Q4aRzt7pIjoV_G_d-E5GSZV/view?usp=sharing"><Button>View CV</Button></a>
